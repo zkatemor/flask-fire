@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 
 body {
-    font-family: 'Lobster', cursive;
+    font-family: 'SansSerif', cursive;
     margin: 0;
     padding: 0;
+    background: aquamarine;
 }
 
 .full-screen {

@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "firebase-tools": "^8.16.0"
-  }
+    "firebase-tools": "^8.16.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkatemor/flask-fire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zkatemor/flask-fire/issues"
+  },
+  "homepage": "https://github.com/zkatemor/flask-fire#readme"
 }
